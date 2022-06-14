@@ -79,18 +79,12 @@ ovr_con_mat
 
 ```python
 plt.matshow(ovr_con_mat, cmap=plt.cm.gray)
+plt.show()
 ```
 
 
 
 
-    <matplotlib.image.AxesImage at 0x7fced1d0bd10>
-
-
-
-
-    
-![png](output_7_1.png)
     
 
 
