@@ -1,3 +1,3 @@
 # Classification
 
-Support-Vector Machine(SVM)<br>
+Support-Vector-Machine(SVM)<br>
