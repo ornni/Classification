@@ -85,7 +85,7 @@ plt.show()
 
 
     
-![png](output_7_0.png)
+![OvR](https://github.com/ornni/Classification/blob/main/SVM/image/output_7_1.png?raw=true)
     
 
 
@@ -150,11 +150,5 @@ plt.show()
 
 
     
-![png](output_12_0.png)
+![OvO](https://github.com/ornni/Classification/blob/main/SVM/image/output_12_1.png?raw=true)
     
-
-
-
-```python
-
-```
