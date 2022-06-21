@@ -1,3 +1,5 @@
+# SVM(OvR, OvO)-MNIST dataset
+
 ```python
 # import libraries
 from sklearn.datasets import fetch_openml
