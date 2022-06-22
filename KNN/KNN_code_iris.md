@@ -278,7 +278,7 @@ plt.show()
 
 
     
-![png](output_13_0.png)
+![KNN](https://github.com/ornni/Classification/blob/main/KNN/image/KNN_code_iris_output_13_0.png?raw=true)
     
 
 
@@ -325,7 +325,7 @@ plt.show()
 
 
     
-![png](output_17_0.png)
+![KNN_cross](https://github.com/ornni/Classification/blob/main/KNN/image/KNN_code_iris_output_17_0.png?raw=true)
     
 
 
