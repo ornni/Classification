@@ -121,7 +121,7 @@ sns.pairplot(data=df, hue='target', palette='Set1')
 
 
     
-![png](output_4_1.png)
+![relation](https://github.com/ornni/Classification/blob/main/SVM/image/SVM_code_iris_output_4_1.png?raw=true)
     
 
 
