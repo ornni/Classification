@@ -1,4 +1,4 @@
-# SVM-iris dataset
+# SVM-IRIS dataset
 
 
 ```python
