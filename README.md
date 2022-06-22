@@ -4,6 +4,7 @@ K-nearest neighbor(KNN)
 - KNN 정리
 - KNN code (IRIS)
 
+---
 
 Support-Vector-Machine (SVM)
 - SVM 정리
