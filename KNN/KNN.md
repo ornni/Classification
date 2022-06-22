@@ -12,7 +12,7 @@ K-최근접 이웃(k-Nearest Neighbor, kNN)<br>
 
 kNN 알고리즘: 현재 데이터를 특정값으로 분류하기 위해 기존의 데이터안에서 현재 데이터로부터 가까운 k개의 데이터를 찾아 k개의 레이블 중 가장 많이 분류된 값으로 현재의 데이터를 분류하는 알고리즘<br>
 
-![KNN]()
+![KNN](https://github.com/ornni/Classification/blob/main/KNN/image/KNN_2-1.png?raw=true)
 
 K는 주로 홀수로 설정<br>
 최적의 k를 찾기 위해 보통 검증 데이터를 통해 가장 정확도가 높은 k를 kNN 알고리즘의 k로 선정<br>
