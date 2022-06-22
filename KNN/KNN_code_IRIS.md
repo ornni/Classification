@@ -1,4 +1,4 @@
-# KNN-iris dataset
+# KNN-IRIS dataset
 
 
 ```python
