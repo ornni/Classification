@@ -13,3 +13,7 @@ Support-Vector-Machine (SVM)
 - multi class (OvR, OvO) code (MNIST)
 
 ---
+
+linear regression
+- linear regression 정리
+- linear regression code
