@@ -14,6 +14,11 @@ Support-Vector-Machine (SVM)
 
 ---
 
+cluster
+- cluster 
+
+---
+
 linear regression
 - linear regression 정리
 - linear regression code
