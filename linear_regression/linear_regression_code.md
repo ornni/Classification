@@ -91,7 +91,7 @@ plt.show()
 
 
     
-![png](output_7_0.png)
+![y=ax](https://github.com/ornni/ML_algorithm/blob/main/linear_regression/image/3-2(1).png?raw=true)
     
 
 
@@ -169,7 +169,7 @@ plt.show()
 
 
     
-![png](output_12_0.png)
+![y=ax+b](https://github.com/ornni/ML_algorithm/blob/main/linear_regression/image/3-3(1).png?raw=true)
     
 
 
