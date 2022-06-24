@@ -1,4 +1,4 @@
-# Classification
+# ML Algorithm
 
 K-nearest neighbor(KNN)
 - KNN 정리
