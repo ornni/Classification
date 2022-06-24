@@ -15,7 +15,7 @@ Support-Vector-Machine (SVM)
 ---
 
 cluster
-- cluster 
+- cluster 정리
 
 ---
 
