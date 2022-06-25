@@ -16,6 +16,7 @@ Support-Vector-Machine (SVM)
 
 cluster
 - cluster 정리
+- k-mean cluster code
 
 ---
 
