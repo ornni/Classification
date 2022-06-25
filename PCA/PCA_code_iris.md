@@ -1,4 +1,4 @@
-# PCA-iris dataset
+# PCA-IRIS dataset
 **2차원으로 사영하기**
 
 
