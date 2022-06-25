@@ -30,7 +30,7 @@ plt.scatter(x=df['height'], y=df['weight'])
 
 
     
-![png](output_3_1.png)
+![data](https://github.com/ornni/ML_algorithm/blob/main/cluster/image/kmean_cluster_code_output_3_1.png?raw=true)
     
 
 
@@ -59,6 +59,6 @@ plt.scatter(x=df['height'], y=df['weight'], c=pred)
 
 
     
-![png](output_5_1.png)
+![result](https://github.com/ornni/ML_algorithm/blob/main/cluster/image/kmean_cluster_code_output_5_1.png?raw=true)
     
 
