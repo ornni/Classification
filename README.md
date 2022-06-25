@@ -20,7 +20,7 @@ cluster
 
 ---
 decision tree
-- 
+- decision tree 
 - decision tree code (IRIS)
 
 ---
