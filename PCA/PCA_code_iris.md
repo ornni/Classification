@@ -83,7 +83,7 @@ sns.scatterplot(x='PC0', y='PC1', data=result, hue=result['target'], s=100)
 
 
     
-![png](output_9_1.png)
+![png](https://github.com/ornni/ML_algorithm/blob/main/PCA/image/PCA_code_iris_output_9_1.png?raw=true)
     
 
 
@@ -109,7 +109,7 @@ sns.lmplot('PC0', 'y-axis', data=result, hue='target')
 
 
     
-![png](output_11_2.png)
+![png](https://github.com/ornni/ML_algorithm/blob/main/PCA/image/PCA_code_iris_output_11_2.png?raw=true)
     
 
 
@@ -141,6 +141,6 @@ sns.lmplot('PC1', 'y-axis', data=sklearn_result, hue='target')
 
 
     
-![png](output_13_2.png)
+![png](https://github.com/ornni/ML_algorithm/blob/main/PCA/image/PCA_code_iris_output_13_2.png?raw=true)
     
 
