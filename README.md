@@ -1,5 +1,9 @@
 # ML Algorithm
 
+deep learning 정리
+
+---
+
 K-nearest neighbor(KNN)
 - KNN 정리
 - KNN code (IRIS)
