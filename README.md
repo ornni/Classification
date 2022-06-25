@@ -6,6 +6,12 @@ K-nearest neighbor(KNN)
 
 ---
 
+PCA
+- PCA 정리
+- PCA code (IRIS)
+
+---
+
 Support-Vector-Machine (SVM)
 - SVM 정리
 - SVM code (IRIS)
