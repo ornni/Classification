@@ -8,19 +8,19 @@
 
 딥러닝(=신경망): 인간의 뇌가 생각하는 방식을 머신러닝알고리즘으로 설계한 것<br>
 
-뉴런이 가지고 있는 정보는 가중치와 곱해져서 다음 레이어의 뉴런으로 전파
+뉴런이 가지고 있는 정보는 가중치와 곱해져서 다음 레이어의 뉴런으로 전파<br>
 
 ![deep_learning](https://github.com/ornni/ML_algorithm/blob/main/image/2-1.png?raw=true)
 
 ---
 
-딥러닝과 머신러닝의 관계
+딥러닝과 머신러닝의 관계<br>
 
 ![relation](https://github.com/ornni/ML_algorithm/blob/main/image/2-2.png?raw=true)
 
 ---
 
-딥러닝
+딥러닝<br>
 ![deep_learning_png](https://github.com/ornni/ML_algorithm/blob/main/image/3-1.png?raw=true)
 
 ---
