@@ -19,6 +19,11 @@ cluster
 - k-mean cluster code
 
 ---
+decision tree
+- 
+- decision tree code (IRIS)
+
+---
 
 linear regression
 - linear regression 정리
