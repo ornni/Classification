@@ -42,6 +42,12 @@ decision tree
 
 ---
 
+ensemble(앙상블)
+- RandomForest code (MNIST)
+- ensemble classifier code (MNIST)
+
+---
+
 linear regression
 - linear regression 정리
 - linear regression code
