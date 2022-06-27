@@ -10,6 +10,13 @@ K-nearest neighbor(KNN)
 
 ---
 
+Naive Bayes
+- Gaussian Naive Bayes code (IRIS)
+- Bernoulli Naive Bayes code
+- Multinomial Naive Bayes code
+
+---
+
 PCA
 - PCA 정리
 - PCA code (IRIS)
