@@ -61,7 +61,7 @@ df.plot()
 
 
     
-![png](output_6_1.png)
+![png](https://github.com/ornni/ML_algorithm/blob/main/ensemble/image/RandomForest_code-MNIST_output_6_1.png?raw=true)
     
 
 
