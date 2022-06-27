@@ -110,6 +110,6 @@ plt.xticks(x, ['decision tree', 'KNN', 'SVM', 'hard voting', 'soft voting'])
 
 
     
-![png](output_10_1.png)
+![png](https://github.com/ornni/ML_algorithm/blob/main/ensemble/image/ensemble_classifier_code-MNIST_output_10_1.png?raw=true)
     
 
