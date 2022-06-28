@@ -11,7 +11,7 @@ K-nearest neighbor(KNN)
 ---
 
 Naive Bayes
-- Naive Bayes 
+- Naive Bayes 정리
 - Gaussian Naive Bayes code (IRIS)
 - Bernoulli Naive Bayes code
 - Multinomial Naive Bayes code
