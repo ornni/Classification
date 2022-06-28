@@ -11,6 +11,7 @@ K-nearest neighbor(KNN)
 ---
 
 Naive Bayes
+- Naive Bayes 
 - Gaussian Naive Bayes code (IRIS)
 - Bernoulli Naive Bayes code
 - Multinomial Naive Bayes code
