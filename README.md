@@ -58,4 +58,6 @@ linear regression
 
 logistic regression
 - logistic regression 정리
-- 
+- single input logistic regression code
+- multi input logistic regression code
+- softmax multi input multi output logistic regression (MNIST)
