@@ -53,3 +53,9 @@ ensemble(앙상블)
 linear regression
 - linear regression 정리
 - linear regression code
+
+---
+
+logistic regression
+- logistic regression 정리
+- 
