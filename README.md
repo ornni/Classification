@@ -44,6 +44,7 @@ decision tree
 ---
 
 ensemble(앙상블)
+- 앙상블 정리
 - RandomForest code (MNIST)
 - ensemble classifier code (MNIST)
 
