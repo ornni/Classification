@@ -1,6 +1,6 @@
 # ML Algorithm
 
-deep learning 정리
+machine learning algorithm
 
 ---
 
